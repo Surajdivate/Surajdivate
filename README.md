@@ -6,8 +6,11 @@ Here's Something About Me. ⬇️
 - 🌱 I’m currently learning Java & Python 🐍
 - 👯 I’m looking to collaborate on web design projects
 - 📫 How to reach me: surajdivate2001@gmail.com
-- ⚡ Fun fact: I am a noob..! 
+- ⚡ Fun fact: I am a noob..!
 
+. 
+
+. 
 
 You can buy me a coffee.. 🥺😊
 
